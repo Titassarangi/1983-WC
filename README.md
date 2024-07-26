@@ -1,1 +1,1 @@
-A project depicting the names and wikipedia pages of 1983 WC winning players
+This project showcases the names and Wikipedia pages of the players who won the 1983 Cricket World Cup. It is created using HTML and CSS to display information and images related to the 1983 World Cup winning team. The repository includes an HTML file for structure and a CSS file for styling, along with various images of the players.
